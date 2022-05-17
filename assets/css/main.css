@@ -2722,6 +2722,10 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.panel.colorgreen{
+			background-color: #002d20;
+	
+		}
 		.panel.color0 {
 			background-image: url("../../images/overlay.png"), linear-gradient(180deg, rgba(123,135,121,1) 0%, rgba(0,45,32,1) 60%, rgba(2,28,1,1) 100%);
 			background-size: 128px 128px, auto;
