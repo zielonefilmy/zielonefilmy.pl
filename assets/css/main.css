@@ -899,13 +899,12 @@ input, select, textarea {
 			background-size: 128px 128px, auto, auto;
 		}
 
-		.image.filtered.green:after {
+	.image.filtered.green:after {
 			background-image: url("../../images/overlay.png"), 
-				linear-gradient(45deg, rgba(123,135,121,0.5329482134650736) 0%, rgba(2,28,1,0.4405112386751575) 46%, rgba(0,45,32,0.6281863087031687) 100%),
+				linear-gradient(156deg, rgba(123,135,121,0) 0%, rgba(0,45,32,0.6281863087031687) 70%),
 				linear-gradient(0deg, rgba(0, 0, 0, 0.125), rgba(0, 0, 0, 0.125));
 			background-size: 128px 128px, auto, auto;
 		}
-
 
 		.image[data-position] img {
 			-moz-object-fit: cover;
