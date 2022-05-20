@@ -2259,7 +2259,7 @@ input, select, textarea {
 			}
 
 		.panel > .intro {
-			padding: 3.5rem 3.5rem 2rem 3.5rem ;
+			padding: 7rem 3.5rem 2rem 3.5rem ;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -2272,10 +2272,10 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			-moz-justify-content: center;
-			-webkit-justify-content: center;
-			-ms-justify-content: center;
-			justify-content: center;
+			-moz-justify-content: start;
+			-webkit-justify-content: start;
+			-ms-justify-content: start;
+			justify-content: start;
 			-moz-align-items: -moz-flex-start;
 			-webkit-align-items: -webkit-flex-start;
 			-ms-align-items: -ms-flex-start;
@@ -3421,11 +3421,11 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			-moz-justify-content: center;
-			-webkit-justify-content: center;
-			-ms-justify-content: center;
-			justify-content: center;
-			padding: 3.5rem 3.5rem 2rem 3.5rem ;
+			-moz-justify-content: start;
+			-webkit-justify-content: start;
+			-ms-justify-content: start;
+			justify-content: start;
+			padding: 7rem 3.5rem 2rem 3.5rem ;
 		}
 
 		.panel.spotlight .image {
