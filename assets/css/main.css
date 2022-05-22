@@ -2,6 +2,9 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300i,400i");
 @import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Wire+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+
+
 
 /*
 	Ethereal by HTML5 UP
@@ -308,6 +311,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		color: inherit;
 		border-bottom: dotted 1px;
+		border-bottom: dotted 1px;
 		text-decoration: none;
 	}
 
@@ -361,7 +365,10 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3rem;
+		font-family: 'Zen Loop', cursive;
+		font-weight: 500;
+		letter-spacing: 0.01rem;
+		font-size: 5rem;
 		line-height: 1.2;
 	}
 
@@ -374,7 +381,10 @@ input, select, textarea {
 			}
 
 	h2 {
-		font-size: 1.75rem;
+		font-family: 'Zen Loop', cursive;
+		letter-spacing: 0.05rem;
+		font-weight: 600;
+		font-size: 2.5rem;
 		line-height: 1.2;
 	}
 
@@ -480,6 +490,7 @@ input, select, textarea {
 		}
 
 		h1 {
+			font-family: 'Zen Loop', cursive;
 			font-size: 2.25rem;
 			line-height: 1.2;
 		}
